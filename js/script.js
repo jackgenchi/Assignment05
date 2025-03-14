@@ -11,5 +11,3 @@ function init () {
         e.preventDefault(); //prevent default behavior
     });
 }
-
-
